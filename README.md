@@ -1,7 +1,7 @@
 ### "Hello World" Aris here 👋
 (https://github.com/AristotelisPallasidis/AristotelisPallasidis/blob/main/Screenshot_14.jpg?raw=true)
 
-So:
+<h2>So:</h2>
 
 - 🔭 I’m currently working on ... Myself
 - 🌱 I’m currently learning ... JAVA & SQL
