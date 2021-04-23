@@ -5,7 +5,7 @@
 </style>
 <img src="https://github.com/AristotelisPallasidis/AristotelisPallasidis/blob/main/Screenshot_14.jpg?raw=true">
 
-<iframe src="https://github.com/AristotelisPallasidis/AristotelisPallasidis/blob/main/giphy.gif?raw=true" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/XIqCQx02E1U9W"></a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/XIqCQx02E1U9W" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/XIqCQx02E1U9W">via GIPHY</a></p>
 
 [Twiiter](https://twitter.com/_pallasidis_) / [Instagram](https://www.instagram.com/aristotelis.pallasidis/) / [YouTube](https://www.youtube.com/channel/UCObyKI7IOrJE1Q697638m7g)
 
