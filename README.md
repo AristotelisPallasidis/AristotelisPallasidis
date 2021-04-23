@@ -18,3 +18,4 @@
  ⚡ Fun fact: ... I am minimalist ⚡<br>
  <3
 </p>
+<hr>
