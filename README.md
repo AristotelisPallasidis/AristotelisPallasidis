@@ -1,5 +1,5 @@
-
-<img src="https://github.com/AristotelisPallasidis/AristotelisPallasidis/blob/main/Screenshot_14.jpg?raw=true" align-center;>
+<!--<h3 align="center">
+<img src="https://github.com/AristotelisPallasidis/AristotelisPallasidis/blob/main/Screenshot_14.jpg?raw=true">
 
 [Twiiter](https://twitter.com/_pallasidis_) / [Instagram](https://www.instagram.com/aristotelis.pallasidis/) / [YouTube](https://www.youtube.com/channel/UCObyKI7IOrJE1Q697638m7g)
 
