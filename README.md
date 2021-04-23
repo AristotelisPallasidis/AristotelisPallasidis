@@ -1,5 +1,4 @@
-### "Hello World" Aris here 👋
-<img src="https://github.com/AristotelisPallasidis/AristotelisPallasidis/blob/main/Screenshot_14.jpg?raw=true">
+<img src="https://github.com/AristotelisPallasidis/AristotelisPallasidis/blob/main/Screenshot_14.jpg?raw=true" width=auto>
 
 <h2>So:</h2>
 
