@@ -1,6 +1,7 @@
 <p align="center"> 
  <img src="https://github.com/AristotelisPallasidis/AristotelisPallasidis/blob/main/Screenshot_14.jpg?raw=true">
 </p>
+
 <h2 align="center"> •
   <a href="https://twitter.com/_pallasidis_">Twitter</a> •
   <a href="https://www.instagram.com/aristotelis.pallasidis/">Instagram</a> •
@@ -8,6 +9,7 @@
 </h2>
 
 <hr>
+
 <p align="center">
  🔭 I’m currently working on ... Coding 🔭<br>
  🌱 I’m currently learning ... JAVA & SQL 🌱<br>
@@ -18,4 +20,5 @@
  ⚡ Fun fact: ... I am minimalist ⚡<br>
  <3
 </p>
+ 
 <hr>
