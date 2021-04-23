@@ -8,8 +8,6 @@
   <a href="https://www.youtube.com/channel/UCObyKI7IOrJE1Q697638m7g">YouTube</a> •
 </h2>
 
-<hr>
-
 <p align="center">
  🔭 I’m currently working on ... Coding 🔭<br>
  🌱 I’m currently learning ... JAVA & SQL 🌱<br>
@@ -20,5 +18,3 @@
  ⚡ Fun fact: ... I am minimalist ⚡<br>
  <3
 </p>
- 
-<hr>
