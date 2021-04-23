@@ -1,4 +1,4 @@
-<img src="https://github.com/AristotelisPallasidis/AristotelisPallasidis/blob/main/Screenshot_14.jpg?raw=true">
+<img  align="center" src="https://github.com/AristotelisPallasidis/AristotelisPallasidis/blob/main/Screenshot_14.jpg?raw=true">
 
 <p align="center"> •
   <a href="https://twitter.com/_pallasidis_">Twitter</a> •
