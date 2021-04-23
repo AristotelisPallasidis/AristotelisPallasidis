@@ -8,10 +8,10 @@
 
 <hr>
 
-• 🔭 I’m currently working on ... Coding
-• 🌱 I’m currently learning ... JAVA & SQL
-• 👯 I’m looking to collaborate on ... Projects
-• 🤔 I’m looking for help with ... JAVA
-• 💬 Ask me about ... Anything
-• 😄 Pronouns: ... He / Him
+• 🔭 I’m currently working on ... Coding <br>
+• 🌱 I’m currently learning ... JAVA & SQL <br>
+• 👯 I’m looking to collaborate on ... Projects <br>
+• 🤔 I’m looking for help with ... JAVA <br>
+• 💬 Ask me about ... Anything <br>
+• 😄 Pronouns: ... He / Him <br>
 • ⚡ Fun fact: ... I am minimalist <3
