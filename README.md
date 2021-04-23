@@ -15,5 +15,6 @@
  🤔 I’m looking for help with ... JAVA 🤔<br>
  💬 Ask me about ... Anything 💬<br>
  😄 Pronouns: ... He / Him 😄<br>
- ⚡ Fun fact: ... I am minimalist ⚡<3
+ ⚡ Fun fact: ... I am minimalist ⚡<br>
+ <3
 </p>
