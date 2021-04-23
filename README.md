@@ -7,7 +7,7 @@
 </p>
 
 <hr>
-
+<p align="center"> •
 • 🔭 I’m currently working on ... Coding <br>
 • 🌱 I’m currently learning ... JAVA & SQL <br>
 • 👯 I’m looking to collaborate on ... Projects <br>
@@ -15,3 +15,4 @@
 • 💬 Ask me about ... Anything <br>
 • 😄 Pronouns: ... He / Him <br>
 • ⚡ Fun fact: ... I am minimalist <3
+</p>
