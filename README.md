@@ -4,6 +4,7 @@
   <a href="https://twitter.com/_pallasidis_">Twitter</a> •
   <a href="https://www.instagram.com/aristotelis.pallasidis/">Instagram</a> •
   <a href="https://www.youtube.com/channel/UCObyKI7IOrJE1Q697638m7g">YouTube</a> •
+</p>
 
 <hr>
 
@@ -14,4 +15,3 @@
 • 💬 Ask me about ... Anything
 • 😄 Pronouns: ... He / Him
 • ⚡ Fun fact: ... I am minimalist <3
-</p>
