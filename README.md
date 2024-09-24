@@ -1,6 +1,6 @@
 # 🐚 Aristotelis Pallasidis
 
-Lord of Coding, Protector the Bugs, and Second of his Name...
+```Lord of Coding, Protector the Bugs, and Second of his Name...```
 
 After completing a six-month internship as a full-stack web developer at Aidplex, I am more motivated than ever to pursue my passion for creating innovative software solutions. My attention to detail ensures that I deliver high-quality products that impact people's lives. In addition to my studies, I serve as the software coordinator for the EMBs IEEE AUTh, a university team dedicated to engineering in medicine and biology. I am finishing my Computer Engineering degree at Democritus University of Thrace, where I continue honing my skills and knowledge in this field.
 
