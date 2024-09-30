@@ -6,7 +6,6 @@ After completing a six-month internship as a full-stack web developer at Aidplex
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aristotelispallasidis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aristotelispallasidis/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/da" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="da" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aristotelispallasidis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aristotelispallasidis" height="30" width="40" /></a>
 </p>
 ___
